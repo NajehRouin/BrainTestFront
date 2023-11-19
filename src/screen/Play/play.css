@@ -1,0 +1,109 @@
+.ques-card {
+  background-color: #F0F1F2;
+  width: 90%;
+  margin-inline: auto;
+  text-align: center;
+  margin: 40px auto;
+  border: 2px solid rgb(28, 28, 28);
+  border-radius: 50px;
+}
+.ques-card h1 {
+  color: #8d7a7d;
+}
+.options {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  color: white;
+  padding: 2%;
+  margin-top: 20px;
+}
+
+.options button {
+  padding: 2%;
+  text-align: justify;
+  width: 40%;
+  background-color: #01579b;
+  margin: 10px;
+  border-radius: 8px;
+  color: white;
+  border: none;
+  font-size: 25px;
+}
+.options button span {
+  color: white;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  font-size: 30px;
+  font-weight: 700;
+}
+.result {
+  background-color: #ccd5ae;
+  width: 60%;
+  margin-inline: auto;
+  min-height: 50vh;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.result img{
+  width: 30px;
+  margin: 0 20px;
+}
+.result span {
+  color: #1f9da6;
+}
+.space {
+  padding: 1%;
+}
+.result h1 {
+  width: 100%;
+  text-align: center;
+}
+.next {
+  width: 200px;
+  margin: 10px auto 30px;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 18px;
+  text-align: center;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.head-card h3 {
+  text-transform: capitalize;
+  font-weight: 600;
+  color: rgba(143, 143, 155, 0.84);
+  font-size: 28px;
+}
+a .botton {
+  width: 200px;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  background-color: rgba(128, 128, 128, 0.674);
+}
+
+.rougecha3cha3i {
+  background-color: #f58f92 !important;
+}
+.a5dharyalma3 {
+  background-color: #265500 !important;
+}
+.rak8alet {
+  background-color: orange !important;
+}
+.oops-nice {
+  font-size: 25px;
+  font-weight: bold;
+}
